@@ -1,0 +1,33 @@
+/* General page styles */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    background-color: #abd3f6;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  /* Header styling */
+  h1 {
+    background-color: #6ba6d7;
+    color: white;
+    padding: 20px;
+  }
+  
+  /* Styling the output area */
+  .output {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #4682b4;
+    border-radius: 8px;
+    background-color: #ffffff;
+    width: 50%;
+    display: inline-block;
+  }
+  
+  /* Styling the text in the console */
+  .console-text {
+    font-size: 1.2rem;
+    color: #000000;
+  }
